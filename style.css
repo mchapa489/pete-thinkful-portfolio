@@ -6,6 +6,7 @@ body {
   background-color: #eae2b7;
   font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
   padding: 40px;
+  text-align: center;
 }
 
 /* Set the font family for any h1, h2, or h3 heading */
@@ -39,6 +40,7 @@ nav {
 article {
   padding: 50px 0;
   background-color: #eae2b7;
+  text-align: center;
 }
 
 article div {
@@ -47,9 +49,23 @@ article div {
   background-color: #eae2b7;
 }
 
+ul {
+  background-color: #eae2b7;
+  text-align: center;
+}
+ol {
+ background-color: #eae2b7;
+  text-align: center; 
+}
+li {
+  background-color: #eae2b7;
+  text-align: center;
+}
+
 p {
   line-height: 1.5;
   background-color: #eae2b7;
+  text-align: center;
 }
 
 footer {
@@ -61,12 +77,14 @@ font-family: "Playfair Display", Times, serif;
 div {
   margin: auto;
   width: 600px;
+  text-align: center;
 }
 
 img {
   width: 100%;
   max-width: 200px;
   height: auto;
+  text-align: center;
 }
 
 hr {
