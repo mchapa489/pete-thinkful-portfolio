@@ -5,8 +5,10 @@ body {
   color: #003049;
   background-color: #eae2b7;
   font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
-  padding: 40px;
-  text-align: center;
+  padding: 400px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: left;
 }
 
 /* Set the font family for any h1, h2, or h3 heading */
@@ -50,29 +52,25 @@ article div {
 }
 
 ul {
-  background-color: #eae2b7;
-  text-align: center;
+  background-color: #eae2b7
 }
 ol {
  background-color: #eae2b7;
-  text-align: center; 
 }
 li {
   background-color: #eae2b7;
-  text-align: center;
-  list-style-position: inside;
 }
 
 p {
   line-height: 1.5;
   background-color: #eae2b7;
-  text-align: center;
 }
 
 footer {
 font-family: "Playfair Display", Times, serif;
   text-align: center;
   background-color: #eae2b7;
+  padding-bottom: 20px;
 }
 /* The div container constrains the content width within the main container to 600px */
 div {
@@ -80,6 +78,7 @@ div {
   width: 600px;
   text-align: center;
 }
+
 
 img {
   width: 100%;
